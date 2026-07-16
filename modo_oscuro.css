@@ -1,0 +1,91 @@
+/* Colores aplicados cuando el <body> tiene la clase .modo-oscuro */
+
+body.modo-oscuro {
+    background-color: #18111f;
+    color: #eee5f2;
+}
+
+body.modo-oscuro .navbar {
+    background-color: #251832 !important;
+    border-bottom-color: #5c3e73;
+}
+
+body.modo-oscuro .navbar-brand,
+body.modo-oscuro .nav-link {
+    color: #eee5f2;
+}
+
+body.modo-oscuro .nav-link:hover,
+body.modo-oscuro .nav-link.active {
+    color: #cfaee0 !important;
+}
+
+body.modo-oscuro #inicio {
+    background-color: #2b143d;
+}
+
+body.modo-oscuro #inicio h1,
+body.modo-oscuro h2,
+body.modo-oscuro .card-title {
+    color: #f4ecf7;
+}
+
+body.modo-oscuro #galeria {
+    background-color: #18111f;
+}
+
+body.modo-oscuro .card {
+    background-color: #251832;
+    border-color: #5c3e73;
+    color: #eee5f2;
+}
+
+body.modo-oscuro #acerca {
+    background-color: #21152d;
+}
+
+body.modo-oscuro .alert {
+    background-color: #251832;
+    border-color: #5c3e73;
+    color: #eee5f2;
+}
+
+body.modo-oscuro .alert-success {
+    background-color: #1f3a34;
+    border-color: #4d8978;
+    color: #e1f5ed;
+}
+
+body.modo-oscuro .btn-primary {
+    background-color: #9d6bb9;
+    border-color: #9d6bb9;
+    color: #1c1026;
+}
+
+body.modo-oscuro .btn-primary:hover,
+body.modo-oscuro .btn-primary:focus,
+body.modo-oscuro .btn-primary:active {
+    background-color: #cfaee0 !important;
+    border-color: #cfaee0 !important;
+    color: #1c1026;
+}
+
+body.modo-oscuro #botonTema {
+    border-color: #cfaee0;
+    color: #cfaee0;
+}
+
+body.modo-oscuro #botonTema:hover {
+    background-color: #cfaee0;
+    color: #251832;
+}
+
+body.modo-oscuro footer {
+    background-color: #251832;
+    border-top-color: #5c3e73;
+    color: #eee5f2;
+}
+
+body.modo-oscuro footer a {
+    color: #cfaee0;
+}
