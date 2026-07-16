@@ -21,11 +21,3 @@ Este proyecto es una página web responsiva que funciona como carta de presentac
 - CSS3 (Bootstrap 5.3, Bootstrap Icons, estilos personalizados)
 - JavaScript (Vanilla)
 
-
-## Instalación
-
-Clonar el repositorio y abrir `index.html` en el navegador.
-
-```bash
-git clone https://github.com/usuario/missa-luna.git
-cd missa-luna
