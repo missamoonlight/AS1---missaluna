@@ -1,6 +1,6 @@
 # Missa Luna - Sitio Web Musical
 
-Landing page para la artista independiente Missa Luna, diseñada para mostrar sus últimos lanzamientos musicales a través de reproductores de SoundCloud integrados.
+Landing page para el artista independiente Missa Luna, diseñada para mostrar sus últimos lanzamientos musicales a través de reproductores de SoundCloud integrados.
 
 ## Descripción
 
